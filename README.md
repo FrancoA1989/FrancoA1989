@@ -1,6 +1,6 @@
 # SOBRE MIM
 
-- 👋 Hi, I’m  o Professor  André Franco;
+- 👋 Hi, I’m  o Professor  **André Franco;**
 - 👀 I’m interested in aprender a criar sites e jogos;
 - 🌱 I’m currently learning  na plataforma Alura, criar jogos e programas no Scratch e no P5 JS.
 - 💞️ I’m looking to collaborate on  em conjunto com meus alunos e colegas de profissão.
